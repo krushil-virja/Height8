@@ -46,6 +46,10 @@ public class NotificationEndpoints {
         this.url = url;
     }
 
+
+    public NotificationEndpoints() {
+    }
+
     
     
 }
